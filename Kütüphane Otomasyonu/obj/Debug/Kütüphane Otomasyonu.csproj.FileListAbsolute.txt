@@ -1,0 +1,27 @@
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.exe.config
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.exe
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.pdb
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Properties.Resources.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.GenerateResource.cache
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.exe
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.pdb
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.KGiris.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.KKayıtOl.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.OrtakGiris.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.PGiris.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.KAnaSayfa.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.PAnaSayfa.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.PKitapListesi.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.PKullaniciListesi.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.KAldigiKitaplar.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.KOncedenAldiklari.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.EmanetOnay.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.YGiris.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.TeslimOnay.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.YAnaSayfa.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.YDuyuru.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.PDuyuru.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.YPersonelListesi.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.PGecikenEmanetler.resources
